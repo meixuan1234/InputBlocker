@@ -1,0 +1,16 @@
+# .NET build output
+bin/
+obj/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Settings (runtime-generated, not committed)
+settings.json
