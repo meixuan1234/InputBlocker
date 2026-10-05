@@ -1,5 +1,9 @@
 # InputBlocker - Windows 全局键鼠屏蔽工具
 
+<!-- quick-pitch -->
+> 擦屏幕、收拾键盘，或者想让孩子专心一会儿？
+> 一键把键盘鼠标全锁住，按 `Ctrl+Alt+Shift+F8` 立刻解锁（另有 5 层兜底恢复）。
+
 基于 .NET 8 WinForms 的 Windows 全局输入屏蔽工具，使用 `WH_KEYBOARD_LL` / `WH_MOUSE_LL` 低层钩子拦截键盘和鼠标，支持光标隐藏、区域限制，内置多重兜底恢复机制。
 
 ## 功能
